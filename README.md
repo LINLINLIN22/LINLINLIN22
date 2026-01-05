@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LINLINLIN22，這是我放code的地方
 - 👀 interested in data analysis
-- 🌱 currently learning python
+- 🌱 currently learning: LLM, Statistics
 
 <!---
 LINLINLIN22/LINLINLIN22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
