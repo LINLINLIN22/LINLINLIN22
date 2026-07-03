@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LINLINLIN22，這是我放code的地方
-- 👀 interested in data analysis
+- 👀 Blog(Tranditional Chinese): https://paperfishblog.netlify.app/
 - 🌱 currently learning: LLM, Statistics
 
 <!---
