@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LINLINLIN22，這是我放code的地方
+- 👋 Hi, I’m @LINLINLIN22，這裡是我放code的地方
 - 👀 Blog(Tranditional Chinese): https://paperfishblog.netlify.app/
 - 🌱 currently learning: LLM, Statistics
 
